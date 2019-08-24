@@ -1,2 +1,2 @@
 # hello.word
-Try > hello word
+Try > hello word.
